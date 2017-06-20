@@ -22,4 +22,27 @@ map(fun,seq) -> map takes 2 argument fun which takes one argument and return new
 	[1, 4, 9, 16, 25, 36, 49]<br>
 ```
 
-### 3. filter
+### 3. filter -  It is used to filter some items from a sequence to form a new sequence
+filter(fun,seq) -> filter takes 2 argument, fun and seq, here fun takes one argument and retuns boolean value whether that element to be included or not.
+```
+	>>> ls = [1,4,6,7,9,11,15,16,17,19,21]
+	>>> mod3 = filter(lambda x: x%3==0, ls )
+	>>> mod3
+	<filter object at 0x7f5d424fd588>
+	>>> mod3 = list(mod3)
+	>>> mod3
+	[6, 9, 15, 21]
+```
+
+### 4. reduce - It is used to get a single value result from a whole sequence
+reduce(fun,seq) -> reduce takes 2 arguments, fun and seq,
+here fun takes 2 argument and return a new computed value.
+
+```
+	>>> ls = [1,4,6,7,9,11,15,16,17,19,21]
+	>>> from functools import reduce
+	>>> no = reduce(lambda x,y : x+y, ls)
+	>>> no
+	126
+```
+
