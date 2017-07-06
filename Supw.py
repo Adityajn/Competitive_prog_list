@@ -1,10 +1,11 @@
 #Nice Dynamic programing Problem
 #https://www.codechef.com/ZCOPRAC/problems/ZCO14002
 #mini is past memory initially initiased as all False and as we find value we fill that mini.
+import sys
 total = int(input())
 mini = [False]*total
 data = list(map(int, input().split()))
-
+sys.setrecursionlimit(1000) #to increase recursion limit
 def find_min(i):
     if total-1<=i+2:
         return 0

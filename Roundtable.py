@@ -3,6 +3,7 @@
 total =  int(input())
 cost = list(map(int,input().split()))
 mini=[False]*total
+import sys; sys.setrecursionlimit(9999999)
 def find_min(i):
     if i+1>=total-1:
         return 0
