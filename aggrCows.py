@@ -1,3 +1,6 @@
+#binary Search
+#http://www.spoj.com/problems/AGGRCOW/
+#nice binary search problem
 def possible(p,d,c):
 	c-=1;last=p[0];
 	for i in range(1,len(p)-1):
