@@ -68,3 +68,30 @@ reduce(fun,seq) -> reduce takes 2 arguments, fun and seq, here fun takes 2 argum
 ##### bisect_right() ->
 ##### insort_left() ->
 ##### insort_right() ->
+
+
+DIFFICULTY LEVELS - Easy Moderate Hard Challenge
+
+1. [Lead Game](https://www.codechef.com/problems/TLG) ->  Simple Greedy
+2. [Video Game](https://www.codechef.com/ZCOPRAC/problems/ZCO14001) -> Simple Greedy
+3. [Voters](https://www.codechef.com/problems/VOTERS) ->
+4. [MatchedBrackets](https://www.codechef.com/ZCOPRAC/problems/ZCO12001) -> Simple Greedy
+
+5. [QuickSort](https://www.commonlounge.com/discussion/608c5c7284b148eb9d550e6166303142) -> Algorithm
+6. [Variation*](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) -> 
+7. [WormHoles](https://www.codechef.com/ZCOPRAC/problems/ZCO12002) -> Simple Greedy
+8. [MergeSort](https://www.commonlounge.com/discussion/98a5ec6dcb864b2eaf7af1e988e92d8f) -> Algorithm
+9. [Trithalon](https://www.codechef.com/INOIPRAC/problems/INOI1201) -> Simple Greedy
+
+10. [HussainSet](https://www.codechef.com/problems/COOK82C) -> Simple BinSearch
+11. [AggrCows]
+12. [SpecialSums]
+
+13. [SupW]
+14. [RoundTable]
+15. [CalvinsGame]
+16. [CommonString](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Moderate DP 
+17. [CommonSubsequence](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Moderate DP
+18. [Maximum Sum Subsection](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Hard DP
+19. [Longest Ascending Subsequence](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Challenge DP)
+20. 

@@ -1,5 +1,14 @@
 N = int(input())
 word = input()
+palin = [[False]*N]*N
+
+
+
+
+
+"""
+N = int(input())
+word = input()
 subword = "";sublen=0;
 for i in range(N):
 	lp=i;rp=i;
@@ -31,3 +40,4 @@ for i in range(N):
 		sublen=curlen
 		subword=curword
 print("{}\n{}".format(sublen,subword))
+"""
