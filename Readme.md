@@ -70,28 +70,30 @@ reduce(fun,seq) -> reduce takes 2 arguments, fun and seq, here fun takes 2 argum
 ##### insort_right() ->
 
 
-DIFFICULTY LEVELS - Easy Moderate Hard Challenge
+## DIFFICULTY LEVELS - 
+### Easy Moderate Hard Challenge
 
-1. [Lead Game](https://www.codechef.com/problems/TLG) ->  Simple Greedy
-2. [Video Game](https://www.codechef.com/ZCOPRAC/problems/ZCO14001) -> Simple Greedy
+1. [Lead Game](https://www.codechef.com/problems/TLG) ->  Easy Greedy
+2. [Video Game](https://www.codechef.com/ZCOPRAC/problems/ZCO14001) -> Easy Greedy
 3. [Voters](https://www.codechef.com/problems/VOTERS) ->
-4. [MatchedBrackets](https://www.codechef.com/ZCOPRAC/problems/ZCO12001) -> Simple Greedy
+4. [MatchedBrackets](https://www.codechef.com/ZCOPRAC/problems/ZCO12001) -> Easy Greedy
 
 5. [QuickSort](https://www.commonlounge.com/discussion/608c5c7284b148eb9d550e6166303142) -> Algorithm
 6. [Variation*](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) -> 
-7. [WormHoles](https://www.codechef.com/ZCOPRAC/problems/ZCO12002) -> Simple Greedy
+7. [WormHoles](https://www.codechef.com/ZCOPRAC/problems/ZCO12002) -> Easy Greedy
 8. [MergeSort](https://www.commonlounge.com/discussion/98a5ec6dcb864b2eaf7af1e988e92d8f) -> Algorithm
-9. [Trithalon](https://www.codechef.com/INOIPRAC/problems/INOI1201) -> Simple Greedy
+9. [Trithalon](https://www.codechef.com/INOIPRAC/problems/INOI1201) -> Easy Greedy
 
 10. [HussainSet](https://www.codechef.com/problems/COOK82C) -> Simple BinSearch
-11. [AggrCows]
-12. [SpecialSums]
+11. [AggrCows](http://www.spoj.com/problems/AGGRCOW/) -> Moderate BinSearch
+12. [SpecialSums](https://www.codechef.com/IOIPRAC/problems/INOI1501) -> Moderate DP 
 
-13. [SupW]
-14. [RoundTable]
-15. [CalvinsGame]
+13. [SupW*](https://www.codechef.com/ZCOPRAC/problems/ZCO14002) -> Hard DP
+14. [RoundTable](https://www.codechef.com/ZCOPRAC/problems/ZCO12004) -> Moderate DP 
+15. [CalvinsGame*](https://www.codechef.com/IOIPRAC/problems/INOI1301) -> Challenge DP 
 16. [CommonString](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Moderate DP 
 17. [CommonSubsequence](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Moderate DP
 18. [Maximum Sum Subsection](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Hard DP
-19. [Longest Ascending Subsequence](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Challenge DP)
-20. 
+19. [Longest Ascending Subsequence*](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-classics.php) -> Challenge DP
+20. [Aibohphobia*](http://www.spoj.com/problems/AIBOHP/) -> Hard DP
+21.
